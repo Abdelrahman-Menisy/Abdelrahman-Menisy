@@ -6,26 +6,41 @@
 
 Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Engineer** from Egypt. I love working on innovative projects and learning new technologies. Below is a bit more about me and what I do.
 
-## 💻 Tech Stack
+## 🔧 Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5">
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3">
-  <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css">
-  <img src="https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass">
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap">
-  <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java">
-  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c">
-  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B">
-  <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript">
-  <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php">
-</p>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+## 🛠 Projects
+
+Here are some of the projects I've been working on:
+
+- **[Medi: Medical Care Chatbot](https://github.com/Abdelrahman-Menisy/medi)** - A chatbot that provides medical assistance using machine learning.
+- **[Predictive Analytics](https://github.com/Abdelrahman-Menisy/predictive-analytics)** - A project focused on predictive modeling using various ML techniques.
+- **[Data Visualization](https://github.com/Abdelrahman-Menisy/data-visualization)** - Visualization of complex data sets using Python libraries.
+
+## 🏅 Achievements
+
+- **Machine Learning Certification** - [Coursera](https://www.coursera.org/)
+- **Data Science Professional** - [IBM](https://www.ibm.com/)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abd-elrahman-menisy-7aab40232)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Abdelrahman-Menisy)
 
 ---
 
