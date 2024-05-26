@@ -1,8 +1,8 @@
 # Hi there, I'm Abd ElRahman Menisy! 👋
 
-![Vital ML Boy](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Junior+Machine+Learning+Engineer;Always+learning+new+things;Open+to+collaborations)](https://git.io/typing-svg)
+
+![Hello Animation](https://media.giphy.com/media/l378Ayc94FjP7drTy/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Engineer** from Egypt. I love working on innovative projects and learning new technologies. Below is a bit more about me and what I do.
 
