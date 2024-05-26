@@ -1,4 +1,4 @@
-# Hi there, I'm Abd ElRahman Menisy! 
+# Hi there, I'm Abd ElRahman Menisy! 👋
 
 ![Hello Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z0MTF1bXl2Z2JmZnF5Yng1ZnoxeDNxenU3OXl4eGYwOGRpY3EwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp)
 
@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Engineer** from Egypt. I love working on innovative projects and learning new technologies. Below is a bit more about me and what I do.
 
-##  Technologies & Tools
+## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Enginee
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-##  Projects
+## 🛠 Projects
 
 Here are some of the projects I've been working on:
 
@@ -30,15 +30,16 @@ Here are some of the projects I've been working on:
 - **[Predictive Analytics](https://github.com/Abdelrahman-Menisy/predictive-analytics)** - A project focused on predictive modeling using various ML techniques.
 - **[Data Visualization](https://github.com/Abdelrahman-Menisy/data-visualization)** - Visualization of complex data sets using Python libraries.
 
-##  Achievements
+## 🏅 Achievements
 
 - **Machine Learning Certification** - [Coursera](https://www.coursera.org/)
 - **Data Science Professional** - [IBM](https://www.ibm.com/)
 
-##  Connect with Me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abd-elrahman-menisy-7aab40232)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Abdelrahman-Menisy)
+
 ---
 
 ### 🧑‍💻 About Me
