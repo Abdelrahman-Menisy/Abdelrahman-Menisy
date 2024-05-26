@@ -27,12 +27,6 @@ Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Enginee
   <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php">
 </p>
 
-## ⏳ Weekly Coding Time
-
-[![WakaTime](https://wakatime.com/badge/user/YOUR_USER_ID_HERE.svg)](https://wakatime.com/@YOUR_USER_ID_HERE)
-
-![WakaTime Stats](https://wakatime.com/share/@YOUR_USER_ID_HERE/your-graph.svg)
-
 ---
 
 ### 🧑‍💻 About Me
