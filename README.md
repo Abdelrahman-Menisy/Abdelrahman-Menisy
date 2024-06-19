@@ -28,9 +28,21 @@ Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Enginee
 
 Here are some of the projects I've been working on:
 
-- **[Medi: Medical Care Chatbot](https://github.com/Abdelrahman-Menisy/medi)** - A chatbot that provides medical assistance using machine learning.
-- **[Predictive Analytics](https://github.com/Abdelrahman-Menisy/predictive-analytics)** - A project focused on predictive modeling using various ML techniques.
-- **[Data Visualization](https://github.com/Abdelrahman-Menisy/data-visualization)** - Visualization of complex data sets using Python libraries.
+### [Medi: Medical Care Chatbot](https://github.com/Abdelrahman-Menisy/Medi-chatbot_v1)
+A chatbot that provides medical assistance using machine learning, designed to assist users with preliminary medical queries and diagnostics.
+
+### [Breast Cancer Prediction API](https://github.com/Abdelrahman-Menisy/Breast-cancer-API)
+An API for predicting the likelihood of breast cancer based on medical data.
+
+### [Diabetes Prediction API](https://github.com/Abdelrahman-Menisy/diabetes-prediction-API)
+An API that predicts diabetes risk using patient data.
+
+### [Heart Attack Prediction API](https://github.com/Abdelrahman-Menisy/Heart-Attack-API)
+An API that assesses the risk of a heart attack based on various health metrics.
+
+### [Multiple Disease Prediction](https://github.com/Abdelrahman-Menisy/multiple-disease-prediction)
+A comprehensive project for predicting multiple diseases from a single patient dataset.
+
 
 ## 🏅 Achievements
 
