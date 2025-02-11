@@ -23,9 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Enginee
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=odoo)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=owl)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=javasecript)
+![Odoo](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=odoo)
 
 ## 🛠 Projects
 
@@ -47,10 +45,6 @@ An API that assesses the risk of a heart attack based on various health metrics.
 A comprehensive project for predicting multiple diseases from a single patient dataset.
 
 
-## 🏅 Achievements
-
-- **Machine Learning Certification** - [Coursera](https://www.coursera.org/)
-- **Data Science Professional** - [IBM](https://www.ibm.com/)
 
 ## 📫 Connect with Me
 
@@ -61,12 +55,8 @@ A comprehensive project for predicting multiple diseases from a single patient d
 
 ### 🧑‍💻 About Me
 
-I'm a highly motivated junior machine learning engineer constantly exploring the vast field of AI and data science. Based in Egypt, I am passionate about leveraging machine learning to solve real-world problems. I am always open to collaboration and eager to contribute to exciting projects.
+I'm a highly motivated junior machine learning engineer & odoo developer constantly exploring the vast field of AI and data science. Based in Egypt, I am passionate about leveraging machine learning to solve real-world problems. I am always open to collaboration and eager to contribute to exciting projects.
 
-## 🎯 Goals
-
-- **Short-term:** Deepen my understanding of deep learning frameworks and deploy more machine learning models to production.
-- **Long-term:** Become a leading expert in AI and contribute significantly to the community through research and open-source projects.
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
