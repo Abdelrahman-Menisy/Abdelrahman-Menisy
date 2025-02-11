@@ -23,6 +23,9 @@ Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Enginee
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=odoo)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=owl)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=javasecript)
 
 ## 🛠 Projects
 
