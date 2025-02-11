@@ -2,9 +2,9 @@
 
 ![Hello Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z0MTF1bXl2Z2JmZnF5Yng1ZnoxeDNxenU3OXl4eGYwOGRpY3EwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Machine+Learning+Engineer;Always+learning+new+things;Open+to+collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Machine+Learning+Engineer;Odoo+Developer;Always+learning+new+things;Open+to+collaborations)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Engineer** from Egypt. I love working on innovative projects and learning new technologies. Below is a bit more about me and what I do.
+Welcome to my GitHub profile! I'm a passionate **Junior Machine Learning Engineer & Odoo Developer** from Egypt. I love working on innovative projects and learning new technologies. Below is a bit more about me and what I do.
 
 ## 🔧 Technologies & Tools
 
